@@ -1,4 +1,7 @@
 # Implementation-of-SVM-For-Spam-Mail-Detection
+# NAME :GOPIKRISHNAN M
+# REGNO:212223043001
+
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
